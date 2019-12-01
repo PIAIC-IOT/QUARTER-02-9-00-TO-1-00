@@ -5,3 +5,6 @@
   > 2) class_code: contains code we did in class 'Spiderman, Superman, ...'.
   
   
+# 01-Dec-2019
+  The code in repositry illustrate the difference between making an instance in main function directly 
+  and making it via associated fucntion.
