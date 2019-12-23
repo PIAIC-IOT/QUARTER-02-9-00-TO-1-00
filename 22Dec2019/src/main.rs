@@ -22,9 +22,9 @@ impl <T> Cacher <T>
            match self.value {
                Some(v) => v,
                None => { 
-                   let 20 = (self.calculation) (20);
-                   20 = Some(20);
-                   20
+                   let v = (self.calculation) (x);
+                   self.value = Some(v);
+                   v
 
                }
            }

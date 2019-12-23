@@ -1,1 +1,1 @@
-/home/areeb/Proj/Dec22/target/debug/Dec22: /home/areeb/Proj/Dec22/src/main.rs
+/home/areeb/Quarter-02/22Dec2019/target/debug/Dec22: /home/areeb/Quarter-02/22Dec2019/src/main.rs
