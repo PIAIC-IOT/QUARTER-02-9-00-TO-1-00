@@ -20,7 +20,7 @@ fn main() {
 
 }*/
 
-// Binary to Decimal conversion
+
 /*use std::io;
 fn main() {
     let mut Binary = String::new();
@@ -99,13 +99,18 @@ fn main() {
     println!("{:p}",ref2);
 }*/
 
+
+
+
+
+
 /*fn main () {
     let mut string = String::from("Hello World");
     let ref1 = &string as *const String; // Hello world
     let ref2 = &mut string as *mut String; 
     //write
     unsafe {
-        *ref2 = String::from("Hello Pakistan!");
+        *ref2 = String::from("Hello Pakistan");
         println!("{}  {}",*ref1,*ref2);
     }
 }*/
