@@ -11,3 +11,12 @@
 
 # 22-Dec-2019
   The code in repositry illustrate the implementation and use of CLosures.
+
+
+#29-Dec-2019
+  1. Decimal to Binary conversion.
+  2. Binary to Decimal conversion.
+  3. Bitwise Operators
+  4. Unsafe rust
+  
+  Google slides- https://docs.google.com/presentation/d/1ctkbH61G2Yq3VQfBvGlipf7EKZBX_A4S6e_OmAmNVJM/edit?usp=sharing
