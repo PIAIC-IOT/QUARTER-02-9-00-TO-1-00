@@ -8,3 +8,6 @@
 # 01-Dec-2019
   The code in repositry illustrate the difference between making an instance in main function directly 
   and making it via associated fucntion.
+
+# 22-Dec-2019
+  The code in repositry illustrate the implementation and use of CLosures.
